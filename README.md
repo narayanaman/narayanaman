@@ -77,7 +77,7 @@
             <!-- RIGHT SIDE -->
             <td width="50%" align="center" valign="top">
 
-                <img src="gif/Aman-Kushwaha.gif" width="650">
+                <img src="gif/Aman-Kushwaha.gif" width="450">
 
                 <br><br>
 
