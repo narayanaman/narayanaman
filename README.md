@@ -1,70 +1,57 @@
 
-
-    <h1 align="center">Hi 👋, I'm Aman Kushwaha</h1>
+<h1 align="center">Hi 👋, I'm Aman Kushwaha</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-    <!-- LEFT SIDE: TEXT -->
-    <div style="width: 60%; text-align: left;">
+   <table>
+<tr>
 
-        <p>🔭 I’m currently working on 
-            <a href="https://amankushwaha.tech/">Code Area</a>
-        </p>
+<td width="60%" valign="top">
 
-        <p>🌱 I’m currently learning 😊</p>
+<p>🔭 I’m currently working on 
+<a href="https://amankushwaha.tech/">Code Area</a>
+</p>
 
-        <p>👯 I’m looking to collaborate on 
-            <a href="https://amankushwaha.tech/NOTES_BAZZAR/index.html">
-                Notes Bazzar
-            </a>
-        </p>
+<p>🌱 I’m currently learning 😊</p>
 
-        <p>🤝 I’m looking for help with 
-            <a href="https://amankushwaha.tech/SPOTIFY-CLONE/index.html">
-                Spotify Clone
-            </a>
-        </p>
+<p>👯 I’m looking to collaborate on 
+<a href="https://amankushwaha.tech/NOTES_BAZZAR/index.html">
+Notes Bazzar
+</a>
+</p>
 
-        <p>👨‍💻 All of my projects are available at 
-            <a href="https://amankushwaha.tech/">
-                My Portfolio
-            </a>
-        </p>
+<p>🤝 I’m looking for help with 
+<a href="https://amankushwaha.tech/SPOTIFY-CLONE/index.html">
+Spotify Clone
+</a>
+</p>
 
-        <p>💬 Ask me about <strong>Web Development</strong></p>
+<p>👨‍💻 All of my projects are available at 
+<a href="https://amankushwaha.tech/">
+My Portfolio
+</a>
+</p>
 
-        <p>📫 How to reach me 
-            <strong>ashayar630@gmail.com</strong>
-        </p>
+<p>💬 Ask me about <strong>Web Development</strong></p>
 
-        <p>📄 Know about my experiences 
-            <a href="https://amankushwaha.tech/">
-                My Portfolio
-            </a>
-        </p>
+<p>📫 How to reach me 
+<strong>ashayar630@gmail.com</strong>
+</p>
 
-        <p>⚡ Fun fact 
-            <strong>I Makes Mistake but I always Come Back</strong>
-        </p>
+<p>⚡ Fun fact 
+<strong>I Makes Mistake but I always Come Back</strong>
+</p>
 
-    </div>
+</td>
 
+<td width="40%" align="center">
 
-    <!-- RIGHT SIDE: VIDEO -->
-    <div style="width: 40%; text-align: right;">
+<img src="gif/Aman-Kushwaha.gif" width="400">
 
-        <video width="400" controls>
-            <source src="gif/Aman-Kushwaha.mp4" type="video/mp4">
-        </video>
+</td>
 
-        <p>
-            <img align="right" src="https://komarev.com/ghpvc/?username=narayanaman&label=Profile%20views&color=0e75b6&style=flat"
-                 alt="narayanaman">
-        </p>
-
-    </div>
-
-</div>
+</tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amankushwa18249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankushwa18249" height="30" width="40" /></a>
