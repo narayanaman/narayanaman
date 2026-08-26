@@ -263,9 +263,3 @@
             src="https://github-readme-stats.vercel.app/api?username=narayanaman&show_icons=true&locale=en"
             alt="GitHub Stats">
     </p>
-
-    <p>
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=narayanaman"
-            alt="GitHub Streak">
-    </p>
