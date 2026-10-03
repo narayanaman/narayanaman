@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Spotify Clone](https://amankushwaha.tech/SPOTIFY-CLONE/index.html)
 
-- 👨‍💻 All of my projects are available at [https://amankushwaha.tech/](https://amankushwaha.tech/)
+- 👨‍💻 All of my projects are available at [https://codearea.in).
 
 - 💬 Ask me about **Web Development**
 
